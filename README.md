@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svtripathii
-- 👀 I’m interested in AI with Mchine Learning
+- 👀 I’m interested in AI with Machine Learning
 - 🌱 I’m currently learning DSA for just placement
 - 📫 How to reach me at Telegram @svtripathi
 
